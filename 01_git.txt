@@ -7,5 +7,5 @@ Versionar é:
 - Saber quem mudou
 - Saber quando mudou
 - Entender o porquê da mudança
-
+ 
 É uma ferramenta instalada localmente no computador.
